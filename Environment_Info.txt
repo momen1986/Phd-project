@@ -1,0 +1,21 @@
+SYSTEM INFORMATION
+============================================================
+Operating System : Windows 10
+Platform         : Windows-10-10.0.26200-SP0
+Processor        : Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Python Version   : 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
+
+PACKAGE VERSIONS
+============================================================
+numpy           : 1.23.5
+pandas          : 1.5.3
+scipy           : 1.10.1
+sklearn         : 1.2.2
+matplotlib      : 3.10.8
+joblib          : 1.5.3
+xgboost         : 2.0.2
+statsmodels     : 0.14.6
+tensorflow      : 2.12.0
+keras           : 2.12.0
+torch           : Not Installed
+openpyxl        : 3.1.5
