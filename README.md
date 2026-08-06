@@ -109,6 +109,7 @@ If necessary, convert the dataset to the required format.
 3- The external validation notebook supports flexible hybrid model configurations. Any standalone model can be excluded by commenting out (#) its prediction and corresponding meta-feature. The meta-learners will automatically use the remaining active models to generate the final hybrid predictions, allowing different ensemble combinations to be evaluated without changing the inference workflow.
 
 4- The base models are saved to generate the first-level predictions, while the meta models are saved to combine these predictions into the final output. Saving both levels ensures that the same optimized models are reused during external validation, providing reproducible and consistent results without the need for retraining.
+
 ---
 
 ### Step 4
